@@ -1,0 +1,10 @@
+site_name: Novo Site 
+nav:
+  - Home: index.md
+  - Sobre: about.md
+  - Introducao: intro.md
+  - GLPI: glpi.md
+  - MkDocs: mkdocs.md
+  -Conclusao: conclusao.md
+theme:
+    name: material

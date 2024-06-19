@@ -1,0 +1,11 @@
+site_name: Documentação Mkdocs
+nav:
+  - Início: index.md
+  - Sobre: about.md
+  - GLPI: glpi.md
+  - Mkdocs: mkdocs.md
+  - Conclusão: conclusao.md
+theme:
+  name: material
+  language: pt-BR
+
